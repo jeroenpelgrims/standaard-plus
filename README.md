@@ -1,0 +1,1 @@
+Script can be installed from https://greasyfork.org/en/scripts/370805-standaard-plus
