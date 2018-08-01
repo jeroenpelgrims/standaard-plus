@@ -4,7 +4,7 @@
 // @name:nl Standaard plus
 // @description Toggle Standaard premium article classes.
 // @description:nl Toggle Standaard premium article classes.
-// @version  1.0.5
+// @version  1.0.6
 // @grant    none
 // @include http://www.standaard.be/*
 // @downloadURL https://greasyfork.org/scripts/370805-standaard-plus/code/Standaard%20plus.user.js
@@ -28,4 +28,4 @@ function toggleClasses() {
 
 toggleClasses();
 
-console.log('1.0.5');
+console.log('standaard plus 1.0.6 loaded');
