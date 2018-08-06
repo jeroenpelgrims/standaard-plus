@@ -6,7 +6,7 @@
 // @description:nl Toggle Standaard premium article classes.
 // @version  1.1.0
 // @grant    none
-// @include http://www.standaard.be/*
+// @include http://*.standaard.be/*
 // @downloadURL https://greasyfork.org/scripts/370805-standaard-plus/code/Standaard%20plus.user.js
 // @updateURL https://greasyfork.org/scripts/370805-standaard-plus/code/Standaard%20plus.meta.js
 // ==/UserScript==
