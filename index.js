@@ -4,7 +4,7 @@
 // @name:nl Standaard plus
 // @description Toggle Standaard premium article classes.
 // @description:nl Toggle Standaard premium article classes.
-// @version  1.1.0
+// @version  1.1.1
 // @grant    none
 // @include http://*.standaard.be/*
 // @downloadURL https://greasyfork.org/scripts/370805-standaard-plus/code/Standaard%20plus.user.js
